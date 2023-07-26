@@ -1,2 +1,2 @@
-# algorithm-c-
+# algorithm-c
 Algorithm, DataStructures with c++ 
